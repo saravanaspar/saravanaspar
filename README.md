@@ -1,83 +1,129 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/saravanaspar">SaravanaKumar N</a>! 👋</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23C55E&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+AnimeWallFX;Developing+AlbionToolKit;Crafting+Digital+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=200&section=header&text=SaravanaKumar%20N&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
   
   <br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saravanaspar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="saravanaspar trophies" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Specialized+in+React+and+Node;Creator+of+AnimeWallFX;Solving+Complex+Problems" alt="Typing SVG" />
   </a>
-
+  
   <br/>
   
   <a href="https://www.linkedin.com/in/saravana-kumar-169110152">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://saravana-kumar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://AnimeWallFX.site">
-    <img src="https://img.shields.io/badge/AnimeWallFX-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<hr/>
-
-## 🎯 About Me
-
-> "Transforming ideas into functional tools and engaging web experiences."
-
-* 🔭 I’m currently working on **AlbionToolKit** (A comprehensive utility suite)
-* 🚀 I recently launched **[AnimeWallFX](https://AnimeWallFX.site)**, a live wallpaper platform.
-* 🎨 Check out my **[Personal Portfolio](https://saravana-kumar.netlify.app/)** for more details.
-* 🌱 I’m currently exploring **Advanced System Design & Cloud Architecture**
-* 👯 I’m looking to collaborate on **Open Source Tooling & Web Apps**
-* 💬 Ask me about **Full Stack Development and Project Architecture**
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages & Core** <br/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<br/>
-
-**Frameworks & Tools** <br/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saravanaspar&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanaspar&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  </div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanaspar&theme=radical&hide_border=true" alt="streak graph" />
+## 👨‍💻 About Me
 
-</div>
+> **"I build applications that live on the web, focusing on performance, scalability, and user experience."**
 
-<hr/>
+I am a Full Stack Developer passionate about creating digital solutions. My work bridges the gap between complex backend logic and intuitive frontend design.
+
+* 🔭 **Currently Working on:** [AlbionToolKit] - A high-performance utility suite for gamers.
+* 🚀 **Latest Release:** [AnimeWallFX](https://AnimeWallFX.site) - A dynamic live wallpaper platform.
+* 🌱 **Learning:** Advanced Cloud Architecture & System Design patterns.
+* ⚡ **Fun Fact:** I love optimizing database queries for milliseconds of speed gain.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TS" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Key Features | Tech Stack & Community |
+| :--- | :--- | :--- |
+| **[AnimeWallFX](https://AnimeWallFX.site)**<br>_Live Wallpaper Platform_ | • **Dynamic Content:** Real-time wallpaper delivery via **AnimeWallFX Bot**.<br>• **Responsive UI:** Smooth animations across devices.<br>• **Optimized:** Fast loading via CDN integration. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)<br>![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br>![Bot](https://img.shields.io/badge/Bot-AnimeWallFX-5865F2?style=flat-square&logo=robot&logoColor=white)<br>🔗 **Server:** [`discord.gg/AMKJQM33DM`](https://discord.gg/AMKJQM33DM) |
+| **AlbionToolKit**<br>_Gaming Utility Suite (Private)_ | • **Analytics Engine:** Data processing for game stats.<br>• **Ticketing:** Support managed by **AnimeWallFX Bot**.<br>• **Scalable DB:** Handles high-volume data requests. | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br>![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)<br>![Bot](https://img.shields.io/badge/Bot-AnimeWallFX-5865F2?style=flat-square&logo=robot&logoColor=white)<br>🔗 **Server:** *(Coming Soon)* |
+
+---
+
+## ⚡ Development Philosophy
+
+I believe in writing clean, maintainable code that solves real problems. My workflow involves:
+
+* **Clean Architecture:** Keeping components decoupled and reusable.
+* **User-Centric Design:** Prioritizing the end-user experience in every API endpoint and UI element.
+* **Continuous Improvement:** Always exploring new technologies (currently diving deep into **Cloud Engineering**).
+
+---
 
 <div align="center">
-  <b>Thanks for visiting! Let's build something amazing together. 🚀</b>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=saravanaspar&label=Profile%20Views&color=0e75b6&style=flat" alt="saravanaspar" />
+  <img src="https://komarev.com/ghpvc/?username=saravanaspar&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Views" />
+  <br/>
+  <br/>
+  <b>Let's build something amazing together.</b>
 </div>
