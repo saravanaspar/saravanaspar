@@ -122,7 +122,7 @@ I believe in writing clean, maintainable code that solves real problems. My work
 ---
 
 <div align="center">
-  <img src="https://komarev/ghpvc/?username=saravanaspar&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=saravanaspar&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Views" />
   <br/>
   <br/>
   <b>Let's build something amazing together.</b>
