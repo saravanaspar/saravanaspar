@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/saravana-kumar-169110152">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://saravana-kumar.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://saravanakumar-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:saravanaspar50@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </div>
@@ -122,7 +122,7 @@ I believe in writing clean, maintainable code that solves real problems. My work
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saravanaspar&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Views" />
+  <img src="https://komarev/ghpvc/?username=saravanaspar&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Views" />
   <br/>
   <br/>
   <b>Let's build something amazing together.</b>
